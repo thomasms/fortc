@@ -1,0 +1,11 @@
+.DS_Store
+
+*~
+*.xcworkspace
+
+
+build
+
+.vscode
+
+*.mod
