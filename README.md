@@ -1,5 +1,7 @@
 # Fortran to C API test
 
+Fortran to C (and back again) examples. I get asked many times how can you call Fortran from C++ or from C and vice versa, well this is my example of how to do it.
+
 ## Error library
 A very basic error library is written in C++ and we provide a C interface for it.
 
@@ -24,9 +26,9 @@ The other tests the error/logger: `testprogram`.
 
 ## More to do....
 
-TODO: Add Fortran program example
-TODO: Add C program example
-TODO: Setup some tests using toast
+- [ ] Add Fortran program example
+- [ ] Add C program example
+- [ ] Setup some tests using toast
 
 ## License
 BSD-3-Clause License
